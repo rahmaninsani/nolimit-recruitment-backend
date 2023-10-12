@@ -115,11 +115,25 @@ npm start
 | GET    | /countries       | Get all countries   |
 | GET    | /countries/:code | Get country by code |
 
+## Postman Collection
+
+Link: https://documenter.getpostman.com/view/9933041/2s9YR3dG3g
+
 ## Result
 
 ### Get all countries
 
 ### Get country by code
+
+1. 200 OK
+
+2. 400 Bad Request (Empty code)
+
+3. 400 Not Found (Invalid code)
+
+### 404 Not Found Route
+
+### Root Route
 
 ## Unit Test
 
