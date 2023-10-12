@@ -13,12 +13,8 @@ RUN npm install
 # Copy the rest of the application code to the working directory
 COPY . .
 
-# Build the TypeScript code
-RUN npm run build
-
-# Expose port 3000 for the application
-EXPOSE 3000
+# Expose port 5000 or any port you want for the application
+EXPOSE 5000
 
 # Start the application
 CMD ["npm", "start"]
-
