@@ -122,18 +122,30 @@ Link: https://documenter.getpostman.com/view/9933041/2s9YR3dG3g
 ## Result
 
 ### Get all countries
+<img width="1061" alt="Get all countries" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/d2fe7197-9098-4c5a-8a92-9311a6617268">
+
 
 ### Get country by code
 
 1. 200 OK
+   <img width="1061" alt="Get country by code 200 OK" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/04250c94-e3fa-42d5-90b3-4b6a19c93731">
 
-2. 400 Bad Request (Empty code)
 
-3. 400 Not Found (Invalid code)
+3. 400 Bad Request (Empty code)
+   <img width="1061" alt="Get country by code 400 Bad Request (Empty code)" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/bcf04eb3-7acb-41b7-a215-68451618a717">
+
+
+5. 400 Bad Request (Invalid code)
+   <img width="1061" alt="Get country by code 400 Bad Request (Invalid code)" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/9984e79e-81b8-46ce-b3a4-293a4e267de3">
+
 
 ### 404 Not Found Route
+<img width="1061" alt="404 Not Found Route" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/66b671ef-f43e-4abe-9b9f-6e30bd97055c">
+
 
 ### Root Route
+<img width="1061" alt="Root Route" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/646ab6f0-a84d-4f9d-9fde-311fc89bedae">
+
 
 ## Unit Test
 
@@ -144,3 +156,5 @@ npm test
 ```
 
 ## Unit Test Result
+<img width="390" alt="Unit Test Result" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/846fede2-f48c-4454-b4d9-b81374599439">
+
