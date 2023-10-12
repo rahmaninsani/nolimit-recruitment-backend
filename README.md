@@ -122,29 +122,34 @@ Link: https://documenter.getpostman.com/view/9933041/2s9YR3dG3g
 ## Result
 
 ### Get all countries
-<img width="1061" alt="Get all countries" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/d2fe7197-9098-4c5a-8a92-9311a6617268">
+<img width="1061" alt="Get all countries" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/5d8fb8db-79a9-434d-b0f2-eb7bb51ac4c7">
+
 
 
 ### Get country by code
 
 1. 200 OK
-   <img width="1061" alt="Get country by code 200 OK" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/04250c94-e3fa-42d5-90b3-4b6a19c93731">
+   <img width="1061" alt="Get country by code 200 OK" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/38fd0633-6aee-4016-8a97-f3fb899a3a5d">
+
 
 
 3. 400 Bad Request (Empty code)
-   <img width="1061" alt="Get country by code 400 Bad Request (Empty code)" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/bcf04eb3-7acb-41b7-a215-68451618a717">
+   <img width="1061" alt="Get country by code 400 Bad Request (Empty code)" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/72082ab4-221f-42c4-be7e-84420399e19b">
 
 
-5. 400 Bad Request (Invalid code)
-   <img width="1061" alt="Get country by code 400 Bad Request (Invalid code)" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/9984e79e-81b8-46ce-b3a4-293a4e267de3">
+4. 400 Bad Request (Invalid code)
+   <img width="1061" alt="Get country by code 400 Bad Request (Invalid code)" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/d179279e-6bf6-48f2-a690-2fafb9916ae3">
+
 
 
 ### 404 Not Found Route
-<img width="1061" alt="404 Not Found Route" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/66b671ef-f43e-4abe-9b9f-6e30bd97055c">
+<img width="1061" alt="404 Not Found Route" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/4ec75060-c361-49e3-b61b-b20e9edbd92e">
+
 
 
 ### Root Route
-<img width="1061" alt="Root Route" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/646ab6f0-a84d-4f9d-9fde-311fc89bedae">
+<img width="1061" alt="Root Route" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/347d6775-05c1-4531-be4d-297ae685b7bb">
+
 
 
 ## Unit Test
@@ -156,5 +161,7 @@ npm test
 ```
 
 ## Unit Test Result
-<img width="390" alt="Unit Test Result" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/846fede2-f48c-4454-b4d9-b81374599439">
+<img width="390" alt="Unit Test Result" src="https://github.com/rahmaninsani/nolimit-recruitment-backend/assets/59505359/483a2570-99fe-43d0-bdb6-72b032bac242">
+
+
 
