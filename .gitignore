@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+
+# Compiled output
+dist
+build
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Testing
+coverage/
+
+# IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.swp
+.DS_Store

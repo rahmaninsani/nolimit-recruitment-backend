@@ -1,0 +1,7 @@
+###
+// Get Countries
+GET http://localhost:3000/countries
+
+###
+// Get Country
+GET http://localhost:3000/countries/AE
